@@ -1,0 +1,1 @@
+INSERT INTO Talabalar (Ism, Familya) VALUES ('Dilnoza','Sodiqova')
